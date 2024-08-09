@@ -16,7 +16,7 @@ global.botname = '🕷Venom-2🕷' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'David_Cyril\n\nContact: +2349066528353'
+global.author = 'David_Cyril\n\nContact: +242069669959'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -35,7 +35,7 @@ global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = true //auto view status/story
+global.autoswview = false //auto view status/story
 
 //menu type 
 //v1 is image menu, 
